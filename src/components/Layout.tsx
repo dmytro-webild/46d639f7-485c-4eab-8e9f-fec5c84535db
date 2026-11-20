@@ -21,7 +21,7 @@ export default function Layout() {
       <footer data-webild-section="Footer" data-section="footer">
         <FooterPlumPhone
           brand="ITRAN VOYAGES MOROCCO"
-          phone="+212 661 000 000"
+          phone="+212 723 902 185"
           email="info@itranvoyages.com"
           address={[
             "Derb Dabachi No. 42, Medina",
@@ -71,7 +71,7 @@ export default function Layout() {
                 },
                 {
                   text: "WhatsApp Booking",
-                  href: "https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES,%20I%20would%20like%20to%20book%20a%20tour."
+                  href: "https://wa.me/212723902185?text=Hello%20ITRAN%20VOYAGES,%20I%20would%20like%20to%20book%20a%20tour."
                 },
                 {
                   text: "Contact Us",
