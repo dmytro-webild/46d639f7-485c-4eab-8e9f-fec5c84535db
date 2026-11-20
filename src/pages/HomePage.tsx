@@ -120,7 +120,8 @@ export default function HomePage() {
               cta: {
                 text: "Book this tour",
                 href: "#contact-plum-form"
-              }
+              },
+              whatsappUrl: "https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Sahara%20Expedition%20tour."
             },
             {
               name: "Imperial Cities",
@@ -146,7 +147,8 @@ export default function HomePage() {
               cta: {
                 text: "Book this tour",
                 href: "#contact-plum-form"
-              }
+              },
+              whatsappUrl: "https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Imperial%20Cities%20tour."
             },
             {
               name: "Grand Morocco",
@@ -172,7 +174,8 @@ export default function HomePage() {
               cta: {
                 text: "Book this tour",
                 href: "#contact-plum-form"
-              }
+              },
+              whatsappUrl: "https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Grand%20Morocco%20tour."
             }
           ]}
         />
@@ -247,6 +250,14 @@ export default function HomePage() {
             "Day Trip Excursion"
           ]}
           submitText="Send Inquiry"
+          details={[
+            { label: "WhatsApp Booking", value: "+212 661 000 000" },
+            { label: "Email Reservation", value: "info@itranvoyages.com" },
+            { label: "Agency Address", value: "Derb Dabachi No. 42, Marrakech Medina" },
+            { label: "Response", value: "Instant via WhatsApp" }
+          ]}
+          imageSrc="https://img.b2bpic.net/free-photo/front-view-woman-preparing-tea-concept_23-2148555212.jpg"
+          imageAlt="Moroccan tea preparation and traditional hospitality"
           labels={{
             name: "Full Name",
             email: "Email Address",
