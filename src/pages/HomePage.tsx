@@ -64,7 +64,7 @@ export default function HomePage() {
             },
             {
               title: "Moroccan Hospitality",
-              imageSrc: "https://img.b2bpic.net/free-photo/front-view-woman-preparing-tea-concept_23-2148555212.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/front-view-woman-preparing-tea-concept_23-2148555212.jpg?_wi=1",
               imageAlt: "Front view of woman preparing tea concept"
             },
             {
@@ -256,7 +256,7 @@ export default function HomePage() {
             { label: "Agency Address", value: "Derb Dabachi No. 42, Marrakech Medina" },
             { label: "Response", value: "Instant via WhatsApp" }
           ]}
-          imageSrc="https://img.b2bpic.net/free-photo/front-view-woman-preparing-tea-concept_23-2148555212.jpg"
+          imageSrc="https://img.b2bpic.net/free-photo/front-view-woman-preparing-tea-concept_23-2148555212.jpg?_wi=2"
           imageAlt="Moroccan tea preparation and traditional hospitality"
           labels={{
             name: "Full Name",
