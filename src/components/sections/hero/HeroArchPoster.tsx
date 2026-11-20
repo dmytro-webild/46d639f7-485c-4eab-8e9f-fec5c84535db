@@ -45,7 +45,7 @@ const HeroArchPoster = ({
   marquee = ["By day", "By night"],
   imageSrc = "https://images.pexels.com/photos/35495060/pexels-photo-35495060.jpeg?auto=compress&cs=tinysrgb&w=1920",
   imageAlt = "",
-  cta = { text: "Book a stay", href: "#contact" },
+  cta = { text: "Start Designing Your Trip", href: "#contact-plum-form" },
   intro = true,
   introDelay = 0,
 }: HeroArchPosterProps) => {
@@ -337,7 +337,7 @@ const HeroArchPoster = ({
               animate={{ opacity: 1 }}
               transition={{ duration: 0.8, ease: EASE_OUT, delay: restDelay + 0.1 }}
               style={{ x: sx, y: sy }}
-              className="group absolute bottom-[clamp(1.5rem,5vh,3rem)] left-1/2 -ml-[3.5rem] flex size-[7rem] items-center justify-center rounded-full"
+              className="group absolute bottom-[clamp(1.5rem,5vh,3rem)] left-1/2 -ml-[3.75rem] flex size-[7.5rem] items-center justify-center rounded-full"
             >
               <svg viewBox="0 0 112 112" fill="none" className="absolute inset-0 size-full -rotate-90">
                 <circle cx="56" cy="56" r="55" stroke="currentColor" strokeOpacity={0.35} strokeWidth={1} />
@@ -353,7 +353,7 @@ const HeroArchPoster = ({
                   className="transition-[stroke-dashoffset] duration-[var(--dur-slow)] ease-[var(--ease-in-out)] group-hover:[stroke-dashoffset:0] group-focus-visible:[stroke-dashoffset:0]"
                 />
               </svg>
-              <p className="relative max-w-[5rem] text-center text-[length:var(--text-label)] uppercase leading-[1.3] tracking-[var(--label-tracking)]">{cta.text}</p>
+              <p className="relative max-w-[5.75rem] text-center text-[length:var(--text-label)] uppercase leading-[1.15] tracking-[var(--label-tracking)]">{cta.text}</p>
             </motion.a>
           )}
         </motion.div>

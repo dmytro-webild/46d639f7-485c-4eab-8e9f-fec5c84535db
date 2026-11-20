@@ -23,8 +23,8 @@ export default function HomePage() {
           imageSrc="https://img.b2bpic.net/free-photo/beautiful-sand-dunes-sahara-desert_661209-131.jpg"
           imageAlt="beautiful sand dunes in sahara desert"
           cta={{
-            text: "Explore Tours",
-            href: "#about"
+            text: "Start Designing Your Trip",
+            href: "#contact-plum-form"
           }}
         />
       </div>
