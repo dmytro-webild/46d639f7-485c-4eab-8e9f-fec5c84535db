@@ -20,7 +20,7 @@ export default function HomePage() {
             "Imperial Cities",
             "Atlas Mountains"
           ]}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg?_wi=1"
           imageAlt="ITRAN VOYAGES MOROCCO - Sahara Desert & Atlas Expedition"
           cta={{
             text: "Start Designing Your Trip",
@@ -38,11 +38,11 @@ export default function HomePage() {
           note="Bespoke private Moroccan tours"
           items={[
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg?_wi=1",
               imageAlt: "Bespoke Moroccan Architecture & Medina"
             },
             {
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg?_wi=1",
               imageAlt: "High Atlas Mountain & Desert Routes"
             }
           ]}
@@ -55,32 +55,32 @@ export default function HomePage() {
           word="MOROCCO"
           quote="We curate every journey to reveal authentic Moroccan magic beyond the usual path."
           credit="ITRAN VOYAGES MOROCCO - Photo Gallery"
-          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg?_wi=1"
           imageAlt="ITRAN VOYAGES MOROCCO Photo Gallery"
           items={[
             {
               title: "Sahara Sunset & Dunes",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg?_wi=2",
               imageAlt: "Sahara Sunset & Dunes"
             },
             {
               title: "Imperial Medina Architecture",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg?_wi=2",
               imageAlt: "Imperial Medina Architecture"
             },
             {
               title: "Luxury Desert Camp Experience",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-vaempi1k.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-vaempi1k.jpg?_wi=1",
               imageAlt: "Luxury Desert Camp Experience"
             },
             {
               title: "High Atlas Mountain Routes",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg?_wi=2",
               imageAlt: "High Atlas Mountain Routes"
             },
             {
               title: "Authentic Moroccan Heritage",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg?_wi=2",
               imageAlt: "Authentic Moroccan Heritage"
             }
           ]}
@@ -111,7 +111,7 @@ export default function HomePage() {
                   value: "Merzouga Camp"
                 }
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-vaempi1k.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-vaempi1k.jpg?_wi=2",
               imageAlt: "Sahara Desert expedition with luxury desert camp",
               cta: {
                 text: "Book this tour",
@@ -138,7 +138,7 @@ export default function HomePage() {
                   value: "Medina & Souks"
                 }
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg?_wi=3",
               imageAlt: "Imperial cities tour of Marrakech and Fes medinas",
               cta: {
                 text: "Book this tour",
@@ -165,7 +165,7 @@ export default function HomePage() {
                   value: "Atlas & Sahara"
                 }
               ],
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg?_wi=3",
               imageAlt: "Grand Morocco tour across High Atlas and Sahara",
               cta: {
                 text: "Book this tour",
@@ -196,7 +196,7 @@ export default function HomePage() {
               role: "Cultural Tour Guest"
             }
           ]}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg?_wi=3"
           imageAlt="Sahara desert sunrise traveler experience"
         />
       </div>
@@ -252,7 +252,7 @@ export default function HomePage() {
             { label: "Agency Address", value: "Derb Dabachi No. 42, Marrakech Medina" },
             { label: "Response", value: "Instant via WhatsApp" }
           ]}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg?_wi=3"
           imageAlt="Authentic Moroccan journey reservation"
           labels={{
             name: "Full Name",
