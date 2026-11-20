@@ -13,6 +13,7 @@ const cn = (...inputs: ClassValue[]) => twMerge(clsx(inputs));
 type GalleryItem = { title: string; imageSrc: string; imageAlt?: string };
 
 type GalleryWindowMergeProps = {
+  id?: string;
   word?: string;
   quote?: string;
   credit?: string;
@@ -43,6 +44,7 @@ const useInset = (progress: MotionValue<number>, top: number[], right: number[],
 };
 
 const GalleryWindowMerge = ({
+  id,
   word = "Sitges",
   quote = "We kept the old garden walls and let the light do the rest.",
   credit = "Marta Roig, architect",
@@ -86,6 +88,7 @@ const GalleryWindowMerge = ({
 
   return (
     <section
+      id={id}
       ref={sectionRef}
       aria-label={ariaLabel ?? word ?? "Gallery"}
       data-scene
