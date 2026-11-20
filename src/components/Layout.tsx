@@ -9,6 +9,12 @@ export default function Layout() {
       <header data-webild-section="Header">
         <NavbarSealCorner
           brand="ITRAN VOYAGES MOROCCO"
+          navItems={[
+            { name: "Destinations", href: "#about" },
+            { name: "Photo Gallery", href: "#gallery" },
+            { name: "Private Tours", href: "#pricing" },
+            { name: "Contact", href: "#contact-plum-form" }
+          ]}
           cta={{
             text: "Book Your Trip",
             href: "#contact-plum-form"

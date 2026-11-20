@@ -20,8 +20,8 @@ export default function HomePage() {
             "Imperial Cities",
             "Atlas Mountains"
           ]}
-          imageSrc="https://img.b2bpic.net/free-photo/beautiful-sand-dunes-sahara-desert_661209-131.jpg"
-          imageAlt="beautiful sand dunes in sahara desert"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg"
+          imageAlt="ITRAN VOYAGES MOROCCO - Sahara Desert & Atlas Expedition"
           cta={{
             text: "Start Designing Your Trip",
             href: "#contact-plum-form"
@@ -33,17 +33,17 @@ export default function HomePage() {
         <AboutArchCurve
           title="Iconic Morocco"
           label="Luxury private routes across Morocco"
-          placeTitle="Imperial Cities"
-          description="Select your private itinerary across Marrakech, Erg Chebbi sand dunes, ancient Fes, and peaceful Rif mountain valleys."
+          placeTitle="Imperial Cities & Dunes"
+          description="Select your private itinerary across Marrakech, Erg Chebbi sand dunes, ancient Fes, and peaceful High Atlas mountain valleys."
           note="Bespoke private Moroccan tours"
           items={[
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/beautiful-natural-landscape_23-2151839177.jpg",
-              imageAlt: "Beautiful natural landscape"
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg",
+              imageAlt: "Bespoke Moroccan Architecture & Medina"
             },
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/green-grass-field-near-mountain-blue-sky-daytime_417767-83.jpg",
-              imageAlt: "green field near mountain range"
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg",
+              imageAlt: "High Atlas Mountain & Desert Routes"
             }
           ]}
         />
@@ -51,41 +51,37 @@ export default function HomePage() {
 
       <div id="gallery" data-webild-section="GalleryWindowMerge" data-webild-section-id="GalleryWindowMerge-1" data-section="gallery" data-scene data-gallery>
         <GalleryWindowMerge
+          id="gallery"
           word="MOROCCO"
           quote="We curate every journey to reveal authentic Moroccan magic beyond the usual path."
-          credit="Connor Hayes, Expedition Director"
-          imageSrc="https://img.b2bpic.net/free-photo/close-up-entrance-courtyard-lions_1139-26.jpg"
-          imageAlt="Close-up of the entrance of the courtyard of the lions"
+          credit="ITRAN VOYAGES MOROCCO - Photo Gallery"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg"
+          imageAlt="ITRAN VOYAGES MOROCCO Photo Gallery"
           items={[
             {
-              title: "Sahara Dunes",
-              imageSrc: "https://img.b2bpic.net/free-photo/sand-dunes-sunset-casting-nice-shadows-muine-vietnam_501050-170.jpg",
-              imageAlt: "Sand dunes at sunset casting nice shadows in Muine Vietnam"
+              title: "Sahara Sunset & Dunes",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg",
+              imageAlt: "Sahara Sunset & Dunes"
             },
             {
-              title: "Moroccan Hospitality",
-              imageSrc: "https://img.b2bpic.net/free-photo/front-view-woman-preparing-tea-concept_23-2148555212.jpg?_wi=1",
-              imageAlt: "Front view of woman preparing tea concept"
+              title: "Imperial Medina Architecture",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg",
+              imageAlt: "Imperial Medina Architecture"
             },
             {
-              title: "Historic Kasbahs",
-              imageSrc: "https://img.b2bpic.net/free-photo/abandoned-greek-chapel-against-blue-sky-with-clouds-is-located-mountain-abandoned-ghost-town-near-fethiye-turkey-site-ancient-greek-city-karmilissos-from-18th-century_166373-3444.jpg",
-              imageAlt: "An abandoned Greek chapel against a blue sky with clouds is located on a mountain in an abandoned ghost town near Fethiye in Turkey Site of the ancient Greek city of Karmilissos from the 18th century"
+              title: "Luxury Desert Camp Experience",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-vaempi1k.jpg",
+              imageAlt: "Luxury Desert Camp Experience"
             },
             {
-              title: "Atlas Mountain Views",
-              imageSrc: "https://img.b2bpic.net/free-photo/beautiful-landscape-with-snowy-mountains-blue-sky-horizontal-alps-austria_1220-1412.jpg",
-              imageAlt: "Beautiful Landscape with Snowy Mountains. Blue Sky. Horizontal. Alps, Austria."
+              title: "High Atlas Mountain Routes",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg",
+              imageAlt: "High Atlas Mountain Routes"
             },
             {
-              title: "Desert 4x4 Expeditions",
-              imageSrc: "https://img.b2bpic.net/free-photo/off-road-car-wilderness_23-2151483004.jpg",
-              imageAlt: "Off-road car in the wilderness"
-            },
-            {
-              title: "Crafted Details",
-              imageSrc: "https://img.b2bpic.net/free-photo/assortment-dry-tea-golden-vintage-mini-plates-tea-types_114579-7917.jpg",
-              imageAlt: "Assortment of dry tea in golden vintage mini plates. Tea types"
+              title: "Authentic Moroccan Heritage",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg",
+              imageAlt: "Authentic Moroccan Heritage"
             }
           ]}
         />
@@ -115,8 +111,8 @@ export default function HomePage() {
                   value: "Merzouga Camp"
                 }
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/sahara-desert-sunlight-blue-sky-morocco-africa_181624-27461.jpg",
-              imageAlt: "Sahara desert under the sunlight and a blue sky in Morocco in Africa",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-vaempi1k.jpg",
+              imageAlt: "Sahara Desert expedition with luxury desert camp",
               cta: {
                 text: "Book this tour",
                 href: "#contact-plum-form"
@@ -142,8 +138,8 @@ export default function HomePage() {
                   value: "Medina & Souks"
                 }
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/vertical-abstract-shot-water-reaching-sand-beach-leaving-trails_181624-4553.jpg",
-              imageAlt: "abstract shot of sand texture",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947590-882v7oba.jpg",
+              imageAlt: "Imperial cities tour of Marrakech and Fes medinas",
               cta: {
                 text: "Book this tour",
                 href: "#contact-plum-form"
@@ -169,8 +165,8 @@ export default function HomePage() {
                   value: "Atlas & Sahara"
                 }
               ],
-              imageSrc: "https://img.b2bpic.net/free-photo/full-shot-people-traveling-together_23-2148922098.jpg",
-              imageAlt: "Full shot people traveling together",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-ulz48iup.jpg",
+              imageAlt: "Grand Morocco tour across High Atlas and Sahara",
               cta: {
                 text: "Book this tour",
                 href: "#contact-plum-form"
@@ -200,8 +196,8 @@ export default function HomePage() {
               role: "Cultural Tour Guest"
             }
           ]}
-          imageSrc="https://img.b2bpic.net/free-photo/minimalist-landscape-from_23-2151599916.jpg"
-          imageAlt="Minimalist landscape from above"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947588-xjtk3xt4.jpg"
+          imageAlt="Sahara desert sunrise traveler experience"
         />
       </div>
 
@@ -256,8 +252,8 @@ export default function HomePage() {
             { label: "Agency Address", value: "Derb Dabachi No. 42, Marrakech Medina" },
             { label: "Response", value: "Instant via WhatsApp" }
           ]}
-          imageSrc="https://img.b2bpic.net/free-photo/front-view-woman-preparing-tea-concept_23-2148555212.jpg?_wi=2"
-          imageAlt="Moroccan tea preparation and traditional hospitality"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3MFjbGIn3Kqfnlr7fvQBozGHRvR/uploaded-1795200947591-f08ys6ss.jpg"
+          imageAlt="Authentic Moroccan journey reservation"
           labels={{
             name: "Full Name",
             email: "Email Address",
