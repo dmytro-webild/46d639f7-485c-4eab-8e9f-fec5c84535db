@@ -102,7 +102,7 @@ const ContactPlumForm = ({
                 {state === "sending" ? (labels?.sending ?? "Sending") : state === "sent" ? (labels?.sent ?? "Sent") : submitText}
               </button>
               <a
-                href="https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20a%20private%20tour."
+                href="https://wa.me/212723902185?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20a%20private%20tour."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-full border border-secondary-foreground/30 px-5 py-2.5 text-[length:var(--text-label)] font-semibold uppercase tracking-[var(--label-tracking)] transition-colors duration-300 hover:border-[#25D366] hover:bg-[#25D366] hover:text-white"

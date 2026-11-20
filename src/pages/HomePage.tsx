@@ -121,7 +121,7 @@ export default function HomePage() {
                 text: "Book this tour",
                 href: "#contact-plum-form"
               },
-              whatsappUrl: "https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Sahara%20Expedition%20tour."
+              whatsappUrl: "https://wa.me/212723902185?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Sahara%20Expedition%20tour."
             },
             {
               name: "Imperial Cities",
@@ -148,7 +148,7 @@ export default function HomePage() {
                 text: "Book this tour",
                 href: "#contact-plum-form"
               },
-              whatsappUrl: "https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Imperial%20Cities%20tour."
+              whatsappUrl: "https://wa.me/212723902185?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Imperial%20Cities%20tour."
             },
             {
               name: "Grand Morocco",
@@ -175,7 +175,7 @@ export default function HomePage() {
                 text: "Book this tour",
                 href: "#contact-plum-form"
               },
-              whatsappUrl: "https://wa.me/212661000000?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Grand%20Morocco%20tour."
+              whatsappUrl: "https://wa.me/212723902185?text=Hello%20ITRAN%20VOYAGES%20MOROCCO!%20I%20would%20like%20to%20book%20the%20Grand%20Morocco%20tour."
             }
           ]}
         />
@@ -251,7 +251,7 @@ export default function HomePage() {
           ]}
           submitText="Send Inquiry"
           details={[
-            { label: "WhatsApp Booking", value: "+212 661 000 000" },
+            { label: "WhatsApp Booking", value: "+212 723 902 185" },
             { label: "Email Reservation", value: "info@itranvoyages.com" },
             { label: "Agency Address", value: "Derb Dabachi No. 42, Marrakech Medina" },
             { label: "Response", value: "Instant via WhatsApp" }
